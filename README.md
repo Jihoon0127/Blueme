@@ -224,10 +224,10 @@ https://github.com/2023-SMHRD-SW-Fullstack-1/Blueme/assets/114223221/5c9d9cda-8c
 #### Front-End
 - UI/UX 디자인 및 화면 구현
   - 웹사이트 전체적인 UI/UX 초기 디자인 구현 
-  - Taiwind CSS를 활용한 전체적인 반응형 웹 구현
+  - Tailwind CSS를 활용한 전체적인 반응형 웹 구현
   - Footer / Header 구현
   - Three.js를 활용한 음악추천 부분 SmartWatch & ChatGPT로고 구현
-  - lottie-react를 활용한 animation 구현
+  - Lottie-react를 활용한 Animation 구현
   - Swiper Slider를 활용한 화면 구현
 
 - 메인 페이지
@@ -235,7 +235,7 @@ https://github.com/2023-SMHRD-SW-Fullstack-1/Blueme/assets/114223221/5c9d9cda-8c
 
 - 테마 페이지 구현
   - 플레이리스트 저장 기능 구현
-  - 저장된 테마 조회 및 상세 페이지구현
+  - 저장된 테마 조회 및 상세 페이지 구현
   - 테마별 음악목록 불러오기 구현
   - 테마별 재생할 음악목록 Redux 처리
 
